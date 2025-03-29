@@ -56,6 +56,10 @@ The analysis is done in order as follow:
 2. **Exploratory Data Analysis (EDA)**: Identifying trends and patterns in the dataset.
 3. **Data Visualization**: Using Tableau for to visualize findings with interactive features.
 
+## **Visualization**
+---
+[Click here](https://public.tableau.com/views/OnlineShoppersPurchasingIntention_Dashboard/Customer?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for the link to the Tableau dashboard
+
 ## **Conclusion and Recommendation**
 ---
 The analysis highlights several findings regarding users' purchasing intetion online. First, it highlights the significant peaks and dips in transaction counts and user sessions within this dataset's period, where we see a very similar but not the same trend. Then, we see a positive correlation between bounce rates and exit rates only between 0% to 20%, which means that all pages were consistent in their performance to keep users from exiting their page. Then, we learned that Product-Related pages are where users will end up on most of the time, which means that these pages are the KEY to conversions. Analysis also shows that non-special days are when people tend to check out online shops the most instead of special days. 
