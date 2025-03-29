@@ -58,7 +58,7 @@ The analysis is done in order as follow:
 
 ## **Visualization**
 ---
-[Click here](https://public.tableau.com/views/OnlineShoppersPurchasingIntention_Dashboard/Customer?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for the link to the Tableau dashboard
+[Click here](https://public.tableau.com/views/OnlineShoppersPurchasingIntention_Dashboard/Page?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for the link to the Tableau dashboard
 
 ## **Conclusion and Recommendation**
 ---
